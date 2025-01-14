@@ -206,7 +206,7 @@ Include a comprehensive `README.md` in the repository:
 
 1. Developer pulls the latest `dev` branch:
 
-   ```bash
+```
    git pull origin dev
 ```
 
