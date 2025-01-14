@@ -198,7 +198,7 @@ Include a comprehensive `README.md` in the repository:
 - Use snake_case for Python (e.g., `get_user_data`).
 
 ### **Files and Directories**
-- Use kebab-case for filenames (e.g., `user-profile.component.ts`).
+- Use **kebab-case** for filenames (e.g., `user-profile.component.ts`).
 
 ---
 
