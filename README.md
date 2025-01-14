@@ -205,21 +205,25 @@ Include a comprehensive `README.md` in the repository:
 ## **12. Example Workflow**
 
 1. Developer pulls the latest `dev` branch:
+
    ```bash
    git pull origin dev
 ```
 
 2. Creates a feature branch:
+
 ```
 git checkout -b feature/login-page
 ```
 
 3. Implements the feature and commits changes:
+
 ```
 git commit -m "feat: add login page"
 ```
 
 4. Pushes the branch:
+
 ```
 git push origin feature/login-page
 ```
@@ -230,6 +234,7 @@ git push origin feature/login-page
 
 7. The 'dev' branch is tested and merged into 'main' for production.
 
+---
 
 ## **13. Tools and Resources**
 
